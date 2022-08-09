@@ -1,2 +1,2 @@
 # TIN-tareas
-Tareas de taller de inteligencia de negocios
+En este repositorio se encuentran las tareas que realize en el teller de inteligencia y negocios.
